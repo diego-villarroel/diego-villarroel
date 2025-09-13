@@ -10,12 +10,15 @@
 - Proyectos de **procesamiento de lenguaje natural (NLP)**.  
 - Automatización con **Python y Docker**.  
 -->
+- Mapa Interactivo y COoperativo Hemtalógico (animales)
 ## 🌱 **Aprendiendo / Mejorando**  
 <!--
 - Arquitecturas de microservicios.  
 - Cloud computing (**AWS, GCP**).  
 - Optimización de bases de datos.  
 -->
+- Node
+- React
 ## 👯 **Colaborando**
 - ArgOS
 <!--
